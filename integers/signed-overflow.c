@@ -2,7 +2,7 @@
 #include <limits.h>
 
 int main () {
-  int i = INT_MAX;
+  unsigned int i = INT_MAX;
   printf("i = %d\n", i);
 
   i++;
